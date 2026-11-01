@@ -1,0 +1,6 @@
+@APIGyakorlos_HostAddress = http://localhost:5030
+
+GET {{APIGyakorlos_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
